@@ -1,0 +1,5 @@
+console.log('This is my first console project')
+console.log('Pranav Rajesh')
+console.log('15')
+console.log('35')
+console.log('2')
